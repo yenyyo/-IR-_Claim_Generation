@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "context": "Sir Philip Anthony Hopkins has won 2 Oscars for the movie Silence of the Lamb and the movie The Father. He is the oldest man to have been nominated and won an Oscar. He was knighted by Queen Elizabeth II for services to the arts at Buckingham Palace in 1993.",
+    "ori_evidence": [
+      [
+        "Sir_Philip_Anthony_Hopkins",
+        1,
+        "He has won 2 Oscars for the movie Silence of the Lamb and the movie The Father."
+      ],
+      [
+        "Oscar",
+        2,
+        "He is the oldest man to have been nominated and won an Oscar, and he has been nominated for 4 more Oscars in his career."
+      ],
+      [
+        "Queen_Elizabeth_II",
+        3,
+        "He was knighted by Queen Elizabeth II for services to the arts at Buckingham Palace in 1993."
+      ]
+    ],
+    "claim": "Sir Philip Anthony Hopkins has a more than 50 years career.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 2,
+    "context": "Guns n Roses is an American hard rock band and was consisted of 5 people in 1985. Axl Rose was the vocalist, Slash was the main guitarist, Izzy Stradlin was the rhythm guitarist, Duff McKagan was the bassist and backing vocalist and Steven Adler was the drummer.",
+    "ori_evidence": [
+      [
+        "guns_n_roses",
+        1,
+        "Guns n Roses is an American hard rock band and was consisted of 5 people in 1985."
+      ],
+      [
+        "band_members",
+        4,
+        "Axl Rose was the vocalist, Slash was the main guitarist, Izzy Stradlin was the rhythm guitarist, Duff McKagan was the bassist and backing vocalist and Steven Adler was the drummer."
+      ]
+    ],
+    "claim": "The main vocalists in the band are Axl Rose and Duff McKagan.",
+    "label": "REFUTED"
+  }
+]

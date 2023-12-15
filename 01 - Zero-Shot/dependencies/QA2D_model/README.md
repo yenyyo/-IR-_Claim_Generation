@@ -1,0 +1,1 @@
+Download the model from [here](https://console.cloud.google.com/storage/browser/few-shot-fact-verification;tab=objects?authuser=0&prefix=&forceOnObjectsSortingFiltering=false&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22)))

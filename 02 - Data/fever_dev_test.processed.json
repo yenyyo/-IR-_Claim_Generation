@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "context": "A popular summer destination is an island country in the Carribean Sea called Bahamas. It consists of more than 3000 islands and islets in the Atlantic Ocean and in 2021 the overnight tourist arrivals were about 900000 and the same-day visitor arrivals were 1.2 million.",
+    "ori_evidence": [
+      [
+        "Bahamas",
+        1,
+        "A popular summer destination is an island country in the Carribean Sea called Bahamas."
+      ],
+      [
+        "tourists",
+        1,
+        "It consists of more than 3000 islands and islets in the Atlantic Ocean and in 2021 the overnight tourist arrivals were about 900000 and the same-day visitor arrivals were 1.2 million."
+      ]
+    ],
+    "claim": "The tourists that went for a day trip in Bahamas in 2021 were more than 1 million.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 2,
+    "context": "The most watched TV show on Netflix on 2023 was the horror TV show ''Wednesday'' with over 250 million views. It is based on a character from a 1991 movie called ''The Addams Family'' and shows the story behind the character's life.",
+    "ori_evidence": [
+      [
+        "Wednesday",
+        1,
+        "The most watched TV show on Netflix on 2023 was the horror TV show ''Wednesday'' with over 250 million views."
+      ],
+      [
+        "main_character",
+        1,
+        "It is based on a character from a 1991 movie called ''The Addams Family'' and shows the story behind the character's life."
+      ]
+    ],
+    "claim": "''Wednesday'' was created before ''The Addams Family''.",
+    "label": "REFUTED"
+  }
+]
