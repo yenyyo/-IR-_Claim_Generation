@@ -39,5 +39,23 @@
     ],
     "claim": "The main vocalists in the band are Axl Rose and Duff McKagan.",
     "label": "REFUTED"
+  },
+  {
+    "id": 3,
+    "context": "The battle of Lepanto took place in august of 1571.The Holy League and Otoman Empire clashed in a fierce battle with more than 500 ships.",
+    "ori_evidence": [
+      [
+        "Lepanto",
+        21,
+        "The battle of Lepanto took place in august of 1571"
+      ],
+      [
+        "Holy_League",
+        4,
+        "The Holy League and Otoman Empire clashed in a fierce battle with more than 500 ships."
+      ]
+    ],
+    "claim": "Lepanto was the biggest battle ever to take place in the mediterranean sea",
+    "label": "NEI"
   }
 ]
