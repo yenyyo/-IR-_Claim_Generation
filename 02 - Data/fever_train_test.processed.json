@@ -57,5 +57,23 @@
     ],
     "claim": "Lepanto was the biggest battle ever to take place in the mediterranean sea",
     "label": "NEI"
+  },
+  {
+    "id": 4,
+    "context": "Lentils can grow on various soil types, from sand to clay loam, growing best in deep sandy loam soils with moderate fertility. A soil pH around 7 would be the best.",
+    "ori_evidence": [
+      [
+        "Lentils",
+        1,
+        "Lentils can grow on various soil types, from sand to clay loam, growing best in deep sandy loam soils with moderate fertility."
+      ],
+      [
+        "soil_ph",
+        2,
+        " A soil pH around 7 would be the best"
+      ]
+    ],
+    "claim": "Lentils can only grow on sand",
+    "label": "REFUTED"
   }
 ]

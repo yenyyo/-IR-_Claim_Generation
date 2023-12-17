@@ -34,5 +34,41 @@
     ],
     "claim": "''Wednesday'' was created before ''The Addams Family''.",
     "label": "REFUTED"
+  },
+  {
+    "id": 3,
+    "context": "Lincoln is home to many active and former churches, the city has around 34 or more active churches. These locate in the city centre and outer suburbs of the city and urban area.",
+    "ori_evidence": [
+      [
+        "Lincoln",
+        1,
+        "Lincoln is home to many active and former churches, the city has around 34 or more active churches."
+      ],
+      [
+        "location",
+        1,
+        "These serve the city centre and outer suburbs of the city and urban area."
+      ]
+    ],
+    "claim": "Lincoln has churches both in city centre and in suburbs.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 4,
+    "context": "Irish Setters get along well with children and other dogs and will greet visitors enthusiastically. Even though they do well with household pets, small animals may pose a problem for this breed, as they are a hunting breed.",
+    "ori_evidence": [
+      [
+        "Irish_setters",
+        1,
+        "Irish Setters get along well with children and other dogs and will greet visitors enthusiastically."
+      ],
+      [
+        "hunting_breed",
+        1,
+        "Even though they do well with household pets, small animals may pose a problem for this breed, as they are a hunting breed."
+      ]
+    ],
+    "claim": "Irish setters are a guarding breed.",
+    "label": "REFUTED"
   }
 ]
