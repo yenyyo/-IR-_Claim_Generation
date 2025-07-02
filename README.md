@@ -1,5 +1,7 @@
-# Claim Generation for Fact-Verification Models
-Repository for the information retrieval course containing the project on claim generation for Zero-Shot Fact-Verification using FEVER dataset
+# Claim Generation for Zero-Shot Fact Verification (FEVER Dataset)
+## Information Retrieval Course Project – University of Antwerp
+
+Designed and implemented a pipeline for automatic claim generation using the FEVER dataset, aiming to support zero-shot fact verification. The project focused on generating verifiable claims from documents and preparing them for downstream verification models.
 
 #### This repository contains the following files and folders
 * **00 - Documentation** : Containing all documentation written for the project
@@ -7,6 +9,8 @@ Repository for the information retrieval course containing the project on claim 
 * **02 - Data** : Sample data generated for the project
 * **03 - Results** : Directory for the output files 
 * **Claim_Generation.ipynb** : Notebook provided to run the project. It is prepared to run on google colab but with minor tweaks it will work locally.
+
+This project demonstrated the integration of natural language generation, zero-shot inference, and information retrieval principles in a practical, end-to-end system.
 
 Large files are linked and not uploaded to the repository
 
